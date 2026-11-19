@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://claude.ai/artifact/Qm81VT8ia1xhsF44aPDTh1"><img src="https://img.shields.io/badge/Portfolio-E85A45?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+  <a href="https://adelyaaibolova.github.io"><img src="https://img.shields.io/badge/Portfolio-E85A45?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/adelya-aibolova"><img src="https://img.shields.io/badge/LinkedIn-141110?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:adelya.aibolova@outlook.com"><img src="https://img.shields.io/badge/Email-C13E2B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
@@ -107,4 +107,4 @@ A multilingual terminology database normalised to 3NF, and a browser game that t
 
 [Natural Language Processing with Real-World Projects](https://coursera.org/verify/specialization/T4HQ0LOPZM2W) (Packt · Coursera) · Python for Everybody (University of Michigan) · Machine Learning Specialization (DeepLearning.AI · Stanford, in progress)
 
-<p align="center"><sub>the frog says hi · <a href="https://claude.ai/artifact/Qm81VT8ia1xhsF44aPDTh1">come play the Lexicon maze on my portfolio</a></sub></p>
+<p align="center"><sub>the frog says hi · <a href="https://adelyaaibolova.github.io">come play the Lexicon maze on my portfolio</a></sub></p>
